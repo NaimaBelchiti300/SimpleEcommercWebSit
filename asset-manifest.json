@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SimpleEcommercWebSit/static/css/main.9d1e7ab8.css",
+    "main.js": "/SimpleEcommercWebSit/static/js/main.2b57558c.js",
+    "static/media/tshirthomme1.jpg": "/SimpleEcommercWebSit/static/media/tshirthomme1.63d717efff9e28684bcc.jpg",
+    "static/media/blousejube.jpg": "/SimpleEcommercWebSit/static/media/blousejube.61a872ff1b95aab5f701.jpg",
+    "static/media/jube rouge.jpg": "/SimpleEcommercWebSit/static/media/jube rouge.da92d42fc78ecbb4aa44.jpg",
+    "static/media/bleuse2.jpg": "/SimpleEcommercWebSit/static/media/bleuse2.e73de607b1dc611b5959.jpg",
+    "static/media/bleuse1.jpg": "/SimpleEcommercWebSit/static/media/bleuse1.175b46a57aaddb380a17.jpg",
+    "static/media/veste solide.webp": "/SimpleEcommercWebSit/static/media/veste solide.2771c38747d81d93d1e7.webp",
+    "static/media/manteau1.jpg": "/SimpleEcommercWebSit/static/media/manteau1.81b6f56daeb556575b01.jpg",
+    "static/media/manteau3.jpg": "/SimpleEcommercWebSit/static/media/manteau3.a1be6a75825d4dd11839.jpg",
+    "static/media/tshirt1.jpg": "/SimpleEcommercWebSit/static/media/tshirt1.a47323bc756d2b80fe00.jpg",
+    "index.html": "/SimpleEcommercWebSit/index.html",
+    "main.9d1e7ab8.css.map": "/SimpleEcommercWebSit/static/css/main.9d1e7ab8.css.map",
+    "main.2b57558c.js.map": "/SimpleEcommercWebSit/static/js/main.2b57558c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d1e7ab8.css",
+    "static/js/main.2b57558c.js"
+  ]
+}
